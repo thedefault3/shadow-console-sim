@@ -1,6 +1,6 @@
 # shadow-console-sim
 
-> ⚠️ **WARNING**: This repository is a **fake simulation / prank**.  
+> ⚠️ **WARNING**: This repository is a .  
 > Nothing here performs network scanning, exploits, or any malicious action. All tools are local simulators that print stylized output for entertainment and demonstration only.
 
 ## Overview
